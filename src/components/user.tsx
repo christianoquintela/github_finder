@@ -2,7 +2,7 @@
 import { UserProps } from '../types/user';
 //Libs
 import { MdLocationPin } from 'react-icons/md';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 //Components CSS
 import classes from './user.module.css';
 
